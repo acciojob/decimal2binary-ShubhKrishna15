@@ -1,5 +1,6 @@
 function threeSum(arr, target) {
-// write your code here
+    let binary = target.toString(target)
+	return binary
   
 }
 
